@@ -3,7 +3,7 @@ This is the repo for assignment 3. It is a two part assignment and is due on Mar
 
 ## Part 1 - Sampling Gamma random variable
 
-Use the IndeptGamma.R code to use MCMC to produce samples from a Gamma(2.3,2.7) random variable.
+Use the IndeptGamma.Rmd script to use MCMC to produce samples from a Gamma(2.3,2.7) random variable.
 
 Show how the performance deteriorates when you run the algorithm to produce samples from a Gamma(0.1,0.01).
 
@@ -12,7 +12,7 @@ Use the Gelman plot to illustrate the deterioration in performance.
 Find a proposal kernel (i.e. q(x->x’), the way of producing new candidate values) that performs more efficiently.
 Again use the Gelman plots to show how performance has changed. Discuss how the performance has improved
 
-Due On March 30th, at 1pm
+Due On XXXX, at midnight.
 
 ## Part 2 - Code Breaking
 
@@ -37,4 +37,4 @@ e.g. “a/A” might stand for “m/M”;  “b/B” might stand for “f/F”
 
 
 Write both parts up as an Rmarkdown file and include a description of the methods you are using (for both parts of the assigment) and a discussion of your results.
-Due March 30th, 1pm. Please commit them to your own versions of this repository (i,.e. the ones for which you received an invite to create from Github classroom.)
+Due XXX at midnight. Please commit them to your own versions of this repository (i.e., the ones for which you received an invite to create from Github classroom.)
