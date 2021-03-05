@@ -1,5 +1,5 @@
 # Assignment3
-This is the repo for assignment 3. It is a two part assignment and is due on March 29th.
+This is the repo for assignment 3. It is a two part assignment and is due at 1pm on March 29th.
 
 ## Part 1 - Sampling Gamma random variable
 
@@ -12,7 +12,7 @@ Use the Gelman plot to illustrate the deterioration in performance.
 Find a proposal kernel (i.e. q(x->x’), the way of producing new candidate values) that performs more efficiently.
 Again use the Gelman plots to show how performance has changed. Discuss how the performance has improved
 
-Due On XXXX, at midnight.
+
 
 ## Part 2 - Code Breaking
 
