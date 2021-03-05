@@ -1,5 +1,5 @@
 # Assignment3
-This is the repo for assignment 3. It is a two part assignment and is due on March 30th.
+This is the repo for assignment 3. It is a two part assignment and is due on March 29th.
 
 ## Part 1 - Sampling Gamma random variable
 
