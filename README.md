@@ -23,7 +23,7 @@ Use one of the methods you have met in the course to try to break the coded mess
 
 They are two extracts from a famous novel, the Med one is longer than the Short one. The longer message will give you a beter chance of breaking the code, but will run more slowly. (I suggest starting with the short one, and once you are happy with your code trying it on the med one.)
 
-I may not be easy to break the code completely without resorting to manual ‘tweaks’ at the end, but you should be able to get to the point at which you can work out what the text is saying.
+It may not be easy to break the code completely without resorting to manual ‘tweaks’ at the end, but you should be able to get to the point at which you can work out what the text is saying.
 
 ### Clues
 
