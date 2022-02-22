@@ -1,6 +1,5 @@
 # Assignment3
-This is the repo for assignment 3. It is a two part assignment and is due at 1pm on April 5th.
-
+This is the repo for assignment 3. It is a two part assignment and is due at 11.59pm on March 25th
 ## Part 1 - Sampling Gamma random variable
 
 Use the IndeptGamma.Rmd script to use MCMC to produce samples from a Gamma(2.3,2.7) random variable.
